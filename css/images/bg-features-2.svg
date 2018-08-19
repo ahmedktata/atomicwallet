@@ -1,23 +1,125 @@
-<svg width="1026" height="1279" viewBox="0 0 1026 1279" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L900.055 231.779C947.081 243.889 978.61 288.032 974.811 336.443L950.018 652.383C946.651 695.286 916.213 731.224 874.449 741.606L0 958.981V0Z" transform="translate(1134.38 282.278) scale(-1 1)" fill="url(#paint0_linear)"/>
-<g style="mix-blend-mode:soft-light" opacity="0.2" transform="matrix(0.999057 -0.0434089 -0.0394026 -0.999223 17.7704 1278.81)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1106.5 0L1540.96 334.532L982.861 445.886C966.083 449.233 948.728 448.22 932.454 442.944L425.455 278.574C323.847 245.633 337.724 97.7151 443.686 84.2469L1106.5 0Z" fill="url(#paint1_linear)"/>
-</g>
-<g style="mix-blend-mode:soft-light" opacity="0.2" transform="translate(1345.15 269.124) scale(-1 1) rotate(-36.3814)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M58.7461 0L453.714 463.649L333.525 494.586C314.293 499.537 294.023 498.649 275.297 492.036L51.3125 412.935C21.5154 402.412 3.35816 372.245 8.00894 340.989L58.7461 0Z" fill="url(#paint2_linear)"/>
-</g>
-<defs>
-<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1531.82 69.4989) scale(1893.75 1986.6) rotate(135.021)">
-<stop stop-color="#4B6CB7"/>
-<stop offset="1" stop-color="#182848"/>
-</linearGradient>
-<linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(929.806 -154.132) scale(695.398 515.639) rotate(123.339)">
-<stop stop-color="white" stop-opacity="0.01"/>
-<stop offset="1" stop-color="white"/>
-</linearGradient>
-<linearGradient id="paint2_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(208.824 177.62) scale(690.784 314.688) rotate(88.2875)">
-<stop stop-color="white" stop-opacity="0.01"/>
-<stop offset="1" stop-color="white"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1025.2306"
+   height="959.88391"
+   viewBox="0 0 1025.2306 958.97316"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="bg-features-2.svg"
+   style="fill:none"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata74">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview72"
+     showgrid="false"
+     viewbox-height="1277.8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.4190774"
+     inkscape:cx="513.61555"
+     inkscape:cy="636.06764"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
+  <path
+     d="M 1025.2306,4.76786 85.530565,233.66616 C 36.433198,245.62564 3.5154299,289.21996 7.4817658,337.02923 L 33.366832,649.04222 c 3.515307,42.36973 35.294015,77.86104 78.897608,88.11399 l 912.96616,214.66515 z"
+     id="path43"
+     style="clip-rule:evenodd;fill:url(#paint0_linear);fill-rule:evenodd;stroke-width:1.01541626"
+     inkscape:connector-curvature="0" />
+  <g
+     style="opacity:0.2;mix-blend-mode:soft-light"
+     transform="matrix(0.999057,-0.0434089,-0.0394026,-0.999223,18.385948,963.4122)"
+     id="g47">
+    <path
+       d="m 1106.5,0 434.46,334.532 -558.099,111.354 c -16.778,3.347 -34.133,2.334 -50.407,-2.942 L 425.455,278.574 C 323.847,245.633 337.724,97.7151 443.686,84.2469 Z"
+       id="path45"
+       inkscape:connector-curvature="0"
+       style="clip-rule:evenodd;fill:url(#paint1_linear);fill-rule:evenodd" />
+  </g>
+  <g
+     style="opacity:0.2;mix-blend-mode:soft-light"
+     transform="matrix(-0.8050864,-0.59315756,-0.59315756,0.8050864,1345.7655,-46.261971)"
+     id="g51">
+    <path
+       d="M 58.7461,0 453.714,463.649 333.525,494.586 c -19.232,4.951 -39.502,4.063 -58.228,-2.55 L 51.3125,412.935 C 21.5154,402.412 3.35816,372.245 8.00894,340.989 Z"
+       id="path49"
+       inkscape:connector-curvature="0"
+       style="clip-rule:evenodd;fill:url(#paint2_linear);fill-rule:evenodd" />
+  </g>
+  <defs
+     id="defs68">
+    <linearGradient
+       id="paint0_linear"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1339.5742,1404.2234,1338.5926,-1405.2531,-397.44003,351.7769)">
+      <stop
+         stop-color="#4B6CB7"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-color="#182848"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-382.1849,430.78207,-580.95876,-283.39087,916.76249,-469.19659)">
+      <stop
+         stop-color="white"
+         stop-opacity="0.01"
+         id="stop58" />
+      <stop
+         offset="1"
+         stop-color="white"
+         id="stop60" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(20.643606,314.54745,-690.47547,9.4042348,22.245949,431.89798)">
+      <stop
+         stop-color="white"
+         stop-opacity="0.01"
+         id="stop63" />
+      <stop
+         offset="1"
+         stop-color="white"
+         id="stop65" />
+    </linearGradient>
+  </defs>
 </svg>

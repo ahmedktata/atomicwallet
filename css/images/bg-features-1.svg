@@ -1,23 +1,120 @@
-<svg width="944" height="1175" viewBox="0 0 944 1175" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L774.314 129.863C813 136.352 844.321 164.86 854.409 202.768L922.195 457.477C934.775 504.747 911.314 554.179 866.739 574.323L0 966V0Z" fill="url(#paint0_linear)"/>
-<g style="mix-blend-mode:soft-light" opacity="0.2" transform="translate(209.999 26.5)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M92.8197 0L709.593 80.3722L343.065 300.301C317.457 315.667 286.322 318.783 258.177 308.797L66.2436 240.701C30.3522 227.967 12.6559 187.584 27.6215 152.564L92.8197 0Z" fill="url(#paint1_linear)"/>
-</g>
-<g style="mix-blend-mode:soft-light" opacity="0.2" transform="translate(651.928 477.058) rotate(120)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M277.273 0L804.797 317.158L379.857 369.743C365.595 371.508 351.119 370.178 337.417 365.844L140.353 303.51C63.2836 279.132 45.4839 178.131 109.576 128.875L277.273 0Z" fill="url(#paint2_linear)"/>
-</g>
-<defs>
-<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1740.49 70.0075) scale(2151.72 2001.14) rotate(135.021)">
-<stop stop-color="#4B6CB7"/>
-<stop offset="1" stop-color="#182848"/>
-</linearGradient>
-<linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(207.863) scale(687.606 314.694) rotate(88.2875)">
-<stop stop-color="white" stop-opacity="0.01"/>
-<stop offset="1" stop-color="white"/>
-</linearGradient>
-<linearGradient id="paint2_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(337.196 85.2698) scale(532.061 244.688) rotate(123.339)">
-<stop stop-color="white" stop-opacity="0.01"/>
-<stop offset="1" stop-color="white"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="928"
+   height="905"
+   viewBox="0 0 928 966.70164"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="bg-features-1.svg"
+   style="fill:none"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata74">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview72"
+     showgrid="false"
+     inkscape:zoom="0.48727273"
+     inkscape:cx="472"
+     inkscape:cy="550"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
+  <path
+     d="M -14.365672,4.3449022 759.94833,134.20783 c 38.686,6.489 70.007,34.997 80.095,72.905 l 67.786,254.709 c 12.58,47.27 -10.881,96.702 -55.456,116.846 L -14.365672,970.34146 Z"
+     id="path43"
+     style="clip-rule:evenodd;fill:url(#paint0_linear);fill-rule:evenodd"
+     inkscape:connector-curvature="0" />
+  <g
+     style="opacity:0.2;mix-blend-mode:soft-light"
+     transform="translate(209.999,-181.7952)"
+     id="g47">
+    <path
+       d="M 92.8197,0 709.593,80.3722 343.065,300.301 c -25.608,15.366 -56.743,18.482 -84.888,8.496 L 66.2436,240.701 C 30.3522,227.967 12.6559,187.584 27.6215,152.564 Z"
+       id="path45"
+       inkscape:connector-curvature="0"
+       style="clip-rule:evenodd;fill:url(#paint1_linear);fill-rule:evenodd" />
+  </g>
+  <g
+     style="opacity:0.2;mix-blend-mode:soft-light"
+     transform="matrix(-0.65069496,0.73043031,-0.77490752,-0.66163967,755.0798,592.33765)"
+     id="g51">
+    <path
+       d="m 277.273,0 527.524,317.158 -424.94,52.585 c -14.262,1.765 -28.738,0.435 -42.44,-3.899 L 140.353,303.51 C 63.2836,279.132 45.4839,178.131 109.576,128.875 Z"
+       id="path49"
+       style="clip-rule:evenodd;fill:url(#paint2_linear);fill-rule:evenodd"
+       inkscape:connector-curvature="0" />
+  </g>
+  <defs
+     id="defs68">
+    <linearGradient
+       id="paint0_linear"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1522.0534,1414.5009,-1520.938,-1415.5382,1740.49,70.007495)">
+      <stop
+         stop-color="#4B6CB7"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-color="#182848"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(20.548633,314.55345,-687.29889,9.4044142,207.863,208.29519)">
+      <stop
+         stop-color="white"
+         stop-opacity="0.01"
+         id="stop58" />
+      <stop
+         offset="1"
+         stop-color="white"
+         id="stop60" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-255.93094,254.68616,-471.93401,-40.814503,333.73235,165.74452)">
+      <stop
+         stop-color="white"
+         stop-opacity="0.01"
+         id="stop63" />
+      <stop
+         offset="1"
+         stop-color="white"
+         id="stop65" />
+    </linearGradient>
+  </defs>
 </svg>
